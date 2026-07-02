@@ -1,16 +1,13 @@
-# 🏥 Hospital Administration Analytics Dashboard | Microsoft Power BI
+Hospital Administration Analytics Dashboard | Microsoft Power BI
+ Project Overview
 
-## 📌 Project Overview
-
-The **Hospital Administration Analytics Dashboard** is an interactive Business Intelligence solution developed using **Microsoft Power BI** to analyze hospital administration data and provide meaningful insights into healthcare operations.
+The Hospital Administration Analytics Dashboard is an interactive Business Intelligence solution developed using Microsoft Power BI to analyze hospital administration data and provide meaningful insights into healthcare operations.
 
 The dashboard transforms raw healthcare data into interactive visualizations, enabling hospital administrators, healthcare managers, and decision-makers to monitor key performance indicators (KPIs), evaluate operational efficiency, analyze patient trends, and improve strategic planning.
 
-This project demonstrates practical Business Intelligence skills, including **data cleaning, data modeling, DAX, Power Query, KPI development, dashboard design, and healthcare analytics**.
+This project demonstrates practical Business Intelligence skills, including data cleaning, data modeling, DAX, Power Query, KPI development, dashboard design, and healthcare analytics.
 
----
-
-# 🎯 Objectives
+ Objectives
 
 The primary objectives of this project are to:
 
@@ -23,22 +20,13 @@ The primary objectives of this project are to:
 - Support evidence-based healthcare decision-making.
 - Develop an executive-level interactive dashboard.
 
----
-
-# 🛠️ Tools & Technologies
-
-| Tool | Purpose |
-|------|----------|
+ Tools & Technologies
 | Microsoft Power BI | Dashboard Development |
 | Microsoft Excel | Dataset |
 | Power Query | Data Cleaning & Transformation |
 | DAX | Measures & KPI Calculations |
 | Data Modeling | Relationship Building |
-| Power BI Service | Report Publishing (Optional) |
-
----
-
-# 📂 Dataset
+| Power BI Service | Report Publishing (Optional|
 
 The dashboard is built using a Hospital Administration dataset stored in Microsoft Excel.
 
@@ -55,31 +43,25 @@ The dataset contains information related to:
 - Patient Demographics
 - Administrative Records
 
-> **Note:** The dataset exceeds GitHub's repository file size limit and is therefore provided separately in the **Releases** section.
+Note: The dataset exceeds GitHub's repository file size limit and is therefore provided separately in the **Releases** section.
 
----
+Download Dataset
 
-# 📥 Download Dataset
+The dataset is available in the Releases section of this repository.
 
-The dataset is available in the **Releases** section of this repository.
-
-### Steps
-
-1. Open the **Releases** section.
-2. Download **Hospital_administration_analysis.xlsx**.
+Steps
+1. Open the Releases section.
+2. Download Hospital_administration_analysis.xlsx.
 3. Save the file in your local project folder.
-4. Open **Hospital_Administration_Dashboard.pbix** in Power BI Desktop.
+4. Open Hospital_Administration_Dashboard.pbix in Power BI Desktop.
 5. If prompted, update the data source path:
-   - **Transform Data → Data Source Settings → Change Source**
+   - Transform Data → Data Source Settings → Change Source
 
----
-
-# 📊 Dashboard Features
+ Dashboard Features
 
 The dashboard includes multiple interactive pages and visualizations designed to support hospital management.
 
-## Executive KPI Cards
-
+Executive KPI Cards
 The dashboard displays key performance indicators such as:
 
 - Total Patients
@@ -91,10 +73,7 @@ The dashboard displays key performance indicators such as:
 - Average Treatment Cost
 - Operational Efficiency
 
----
-
-## Patient Admission Analysis
-
+Patient Admission Analysis
 Visualizations include:
 
 - Monthly Admissions
@@ -104,9 +83,7 @@ Visualizations include:
 
 These visuals help identify patient inflow patterns and healthcare demand.
 
----
-
-## Department Performance Analysis
+Department Performance Analysis
 
 Analyze performance across hospital departments including:
 
@@ -115,20 +92,14 @@ Analyze performance across hospital departments including:
 - Department Efficiency
 - Treatment Distribution
 
----
-
-## Patient Demographics
-
+Patient Demographics
 The dashboard provides insights into:
-
 - Gender Distribution
 - Age Groups
 - Diagnosis Categories
 - Patient Segmentation
 
----
-
-## Doctor & Treatment Analysis
+Doctor & Treatment Analysis
 
 Monitor:
 
@@ -137,21 +108,14 @@ Monitor:
 - Department Allocation
 - Patient Assignment
 
----
-
-## Operational Dashboard
-
+Operational Dashboard
 Track important hospital metrics such as:
-
 - Average Stay Duration
 - Resource Utilization
 - Readmission Trends
 - Hospital Capacity
 
----
-
-# 📈 Key Performance Indicators
-
+Key Performance Indicators
 The dashboard tracks:
 
 - Total Patients
@@ -163,10 +127,7 @@ The dashboard tracks:
 - Resource Utilization
 - Treatment Statistics
 
----
-
-# 📊 Interactive Features
-
+Interactive Features
 Users can dynamically filter reports using:
 
 - Department
@@ -177,10 +138,7 @@ Users can dynamically filter reports using:
 - Age Group
 
 Interactive slicers allow users to drill down into specific areas of interest.
-
----
-
-# 💡 Business Insights
+ Business Insights
 
 This dashboard helps answer important business questions such as:
 
@@ -193,9 +151,7 @@ This dashboard helps answer important business questions such as:
 - What are the readmission trends?
 - Which patient groups require more attention?
 
----
-
-# 💼 Business Use Cases
+ Business Use Cases
 
 This dashboard can be used for:
 
@@ -208,38 +164,7 @@ This dashboard can be used for:
 - Healthcare Decision Support
 - Strategic Planning
 
----
-
-# 🔄 Project Workflow
-
-```
-Hospital Administration Dataset
-            │
-            ▼
-     Data Cleaning
-     (Power Query)
-            │
-            ▼
-     Data Modeling
-            │
-            ▼
-      DAX Measures
-            │
-            ▼
- Dashboard Development
-            │
-            ▼
- Interactive Visualizations
-            │
-            ▼
- Business Insights
-```
-> The dataset is available separately in the **Releases** section.
-
-```
-
-# 🚀 Skills Demonstrated
-
+Skills Demonstrated
 This project demonstrates proficiency in:
 
 - Microsoft Power BI
@@ -254,10 +179,7 @@ This project demonstrates proficiency in:
 - Data Visualization
 - Data Storytelling
 
----
-
-# 📚 Learning Outcomes
-
+Learning Outcomes
 Through this project, I gained hands-on experience in:
 
 - Designing interactive Power BI dashboards
@@ -269,12 +191,8 @@ Through this project, I gained hands-on experience in:
 - Presenting actionable insights through dashboards
 
 
-# Author
+Author
+Aarzu Bharti
 
-**Aarzu Bharti**
+MBA (Business Analytics) | Aspiring Data & Business Analyst
 
-MBA (Business Analytics) | ECBA Certified | Former SBI Professional | Aspiring Data & Business Analyst
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
