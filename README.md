@@ -1,198 +1,124 @@
-Hospital Administration Analytics Dashboard | Microsoft Power BI
- Project Overview
+# Hospital Administration Analysis Dashboard
 
-The Hospital Administration Analytics Dashboard is an interactive Business Intelligence solution developed using Microsoft Power BI to analyze hospital administration data and provide meaningful insights into healthcare operations.
+### Interactive Power BI Dashboard for Healthcare Operations and Performance Analysis
 
-The dashboard transforms raw healthcare data into interactive visualizations, enabling hospital administrators, healthcare managers, and decision-makers to monitor key performance indicators (KPIs), evaluate operational efficiency, analyze patient trends, and improve strategic planning.
+---
 
-This project demonstrates practical Business Intelligence skills, including data cleaning, data modeling, DAX, Power Query, KPI development, dashboard design, and healthcare analytics.
+## About the Project
 
- Objectives
+This project presents an interactive Power BI dashboard built using a hospital administration dataset. The goal of the analysis is to transform raw healthcare data into meaningful insights that support operational monitoring and data-driven decision-making.
 
-The primary objectives of this project are to:
+The dashboard focuses on key hospital performance metrics, patient trends, admission patterns, and operational efficiency through interactive visualizations.
 
-- Analyze hospital administration data using Power BI.
-- Monitor important healthcare KPIs.
-- Evaluate patient admission trends.
-- Analyze patient demographics.
-- Monitor hospital operational efficiency.
-- Compare department-wise performance.
-- Support evidence-based healthcare decision-making.
-- Develop an executive-level interactive dashboard.
+---
 
- Tools & Technologies
-| Microsoft Power BI | Dashboard Development |
-| Microsoft Excel | Dataset |
-| Power Query | Data Cleaning & Transformation |
-| DAX | Measures & KPI Calculations |
-| Data Modeling | Relationship Building |
-| Power BI Service | Report Publishing (Optional|
+## Project Objective
 
-The dashboard is built using a Hospital Administration dataset stored in Microsoft Excel.
+The objective of this project is to:
 
-The dataset contains information related to:
+* Analyze hospital administration data.
+* Monitor important healthcare performance indicators.
+* Identify trends in patient admissions and hospital operations.
+* Present insights using interactive Power BI visualizations.
+* Support informed decision-making through data analysis.
 
-- Patient Information
-- Admission Details
-- Medical Diagnosis
-- Departments
-- Hospital Stay Duration
-- Doctors
-- Treatment Information
-- Healthcare Services
-- Patient Demographics
-- Administrative Records
+---
 
-Note: The dataset exceeds GitHub's repository file size limit and is therefore provided separately in the **Releases** section.
+## Dataset
 
-Download Dataset
+The dataset used for this project contains hospital administration records, including patient information, admissions, diagnoses, medical procedures, and other operational details.
 
-The dataset is available in the Releases section of this repository.
+The dataset is available in the **Releases** section of this repository.
 
-Steps
-1. Open the Releases section.
-2. Download Hospital_administration_analysis.xlsx.
-3. Save the file in your local project folder.
-4. Open Hospital_Administration_Dashboard.pbix in Power BI Desktop.
-5. If prompted, update the data source path:
-   - Transform Data → Data Source Settings → Change Source
+---
 
- Dashboard Features
+## Tools Used
 
-The dashboard includes multiple interactive pages and visualizations designed to support hospital management.
+* Microsoft Power BI
+* Power Query
+* DAX
+* Microsoft Excel
 
-Executive KPI Cards
-The dashboard displays key performance indicators such as:
+---
 
-- Total Patients
-- Total Admissions
-- Average Length of Stay
-- Readmission Rate
-- Department Performance
-- Bed Utilization
-- Average Treatment Cost
-- Operational Efficiency
+## Dashboard Highlights
 
-Patient Admission Analysis
-Visualizations include:
-
-- Monthly Admissions
-- Daily Admissions
-- Admission Trends
-- Seasonal Analysis
-
-These visuals help identify patient inflow patterns and healthcare demand.
-
-Department Performance Analysis
-
-Analyze performance across hospital departments including:
-
-- Patient Volume
-- Resource Utilization
-- Department Efficiency
-- Treatment Distribution
-
-Patient Demographics
 The dashboard provides insights into:
-- Gender Distribution
-- Age Groups
-- Diagnosis Categories
-- Patient Segmentation
 
-Doctor & Treatment Analysis
+* Overall patient admissions
+* Patient demographics
+* Length of hospital stay
+* Readmission analysis
+* Medical specialty distribution
+* Diagnosis trends
+* Medication and treatment patterns
+* Hospital performance metrics
+* Interactive filtering for deeper analysis
 
-Monitor:
+---
 
-- Doctor Workload
-- Treatment Distribution
-- Department Allocation
-- Patient Assignment
+## Data Preparation
 
-Operational Dashboard
-Track important hospital metrics such as:
-- Average Stay Duration
-- Resource Utilization
-- Readmission Trends
-- Hospital Capacity
+Before creating the dashboard, the data was prepared by:
 
-Key Performance Indicators
-The dashboard tracks:
+* Removing duplicate records
+* Handling missing values
+* Cleaning inconsistent entries
+* Transforming data using Power Query
+* Creating calculated columns and measures using DAX
+* Building relationships between data tables
 
-- Total Patients
-- Total Admissions
-- Average Length of Stay
-- Readmission Rate
-- Patient Distribution
-- Department Performance
-- Resource Utilization
-- Treatment Statistics
+---
 
-Interactive Features
-Users can dynamically filter reports using:
+## Key Insights
 
-- Department
-- Doctor
-- Admission Date
-- Diagnosis
-- Gender
-- Age Group
+The analysis helps answer questions such as:
 
-Interactive slicers allow users to drill down into specific areas of interest.
- Business Insights
+* Which patient groups require more hospital care?
+* What factors contribute to higher readmission rates?
+* Which medical specialties handle the highest number of patients?
+* How does the average hospital stay vary across different patient groups?
+* What operational trends can support better healthcare planning?
 
-This dashboard helps answer important business questions such as:
+---
 
-- Which departments receive the highest patient volume?
-- What are the monthly admission trends?
-- Which diagnosis categories are most common?
-- What is the average patient stay duration?
-- Which departments require additional resources?
-- How effectively are hospital resources utilized?
-- What are the readmission trends?
-- Which patient groups require more attention?
+## Dashboard Features
 
- Business Use Cases
+The dashboard includes:
 
-This dashboard can be used for:
+* KPI Cards
+* Interactive Slicers
+* Bar Charts
+* Line Charts
+* Pie and Donut Charts
+* Trend Analysis
+* Drill-down Visualizations
+* Dynamic Filtering
 
-- Hospital Administration
-- Healthcare Analytics
-- Executive Reporting
-- Operational Performance Monitoring
-- Patient Management
-- Resource Planning
-- Healthcare Decision Support
-- Strategic Planning
+---
 
-Skills Demonstrated
-This project demonstrates proficiency in:
+## Business Value
 
-- Microsoft Power BI
-- Data Cleaning
-- Power Query
-- DAX
-- Data Modeling
-- KPI Development
-- Dashboard Design
-- Business Intelligence
-- Healthcare Analytics
-- Data Visualization
-- Data Storytelling
+This dashboard demonstrates how healthcare data can be transformed into actionable insights that support:
 
-Learning Outcomes
-Through this project, I gained hands-on experience in:
+* Better resource planning
+* Improved patient care
+* Performance monitoring
+* Operational efficiency
+* Data-driven healthcare management
 
-- Designing interactive Power BI dashboards
-- Building healthcare KPI scorecards
-- Creating efficient data models
-- Writing DAX measures
-- Cleaning and transforming healthcare datasets
-- Developing business-oriented visualizations
-- Presenting actionable insights through dashboards
+---
 
+## Conclusion
 
-Author
-Aarzu Bharti
+This project showcases the use of Power BI for healthcare analytics by combining data preparation, visualization, and business analysis into an interactive reporting solution. It reflects practical skills in data modeling, dashboard development, and presenting complex information in a clear and meaningful way.
 
-MBA (Business Analytics) | Aspiring Data & Business Analyst
+---
+
+## Author
+
+### Aarzu Bharti
+
+MBA (Business Analytics)
+
 
